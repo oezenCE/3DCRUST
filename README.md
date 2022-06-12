@@ -1,4 +1,5 @@
-# 3D CRUST SOFiSTiK Post-Processor
+# 3DCRUST* SOFiSTiK Post-Processor
+## *3D Concrete Reinforcement Using Stress Trajectories
 This library makes use of the C++ interface provided by SOFiSTiK to access and read results generated from CDB files, as well as the functionality of the vtu11 library to convert the FEM data to an unstructured grid (VTU file) under the VTK standard, as well as using gotraceit library to calculate and trace principal stress trajectories.
 ## Prerequisites
 ### OS
